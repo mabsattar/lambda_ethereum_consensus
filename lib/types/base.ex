@@ -1,4 +1,4 @@
-defmodule Types do
+defmodule LambdaEthereumConsensus.Types.Base do
   @moduledoc """
   Lists some types used in SSZ structs.
   """
